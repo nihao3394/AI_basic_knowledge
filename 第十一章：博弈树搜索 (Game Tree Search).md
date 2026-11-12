@@ -112,7 +112,7 @@ flowchart TD
     - **与节点 (MIN 节点)**：选择子节点分数的 **最小值**（假设对方极其聪明，会选择使己方收益最小的步数）。
 		
 
-没看懂？更详细解释见 [如何理解极大极小分析法（Minimax Algorithm）](如何理解极大极小分析法（Minimax%20Algorithm）.md)
+没看懂？更详细解释见 [如何理解极大极小分析法（Minimax Algorithm）](概念分述/如何理解极大极小分析法（Minimax%20Algorithm）.md)
 
 ### 2.2 典型实例：九宫棋 (Tic-Tac-Toe)
 
@@ -140,7 +140,7 @@ flowchart TD
     
 2. $\alpha$ **剪枝**：当某个“与”节点的 $\beta$ 值小于等于其父“或”节点的 $\alpha$ 值（即 $\beta \le \alpha$）时，停止搜索该“与”节点的其他子节点。
 
-没看懂？更详细解释见 [如何理解 alpha-beta 剪枝技术(alpha-beta Pruning)](如何理解%20alpha-beta%20剪枝技术(alpha-beta%20Pruning).md)
+没看懂？更详细解释见 [如何理解 alpha-beta 剪枝技术(alpha-beta Pruning)](概念分述/如何理解%20alpha-beta%20剪枝技术(alpha-beta%20Pruning).md)
 
 ## 4. 蒙特卡洛树搜索 (MCTS)
 
@@ -169,7 +169,7 @@ $$UCB = \overline{X_j} + C \times \sqrt{\frac{\ln N}{n_j}}$$
     
 - $C$：平衡因子（$C$ 越大越倾向于去**探索**未被充分尝试的偏门节点；$C$ 越小越倾向于**利用**当前胜率高的高频节点）。
 
-没看懂？更详细解释见 [如何理解蒙特卡洛树搜索（MCTS）](如何理解蒙特卡洛树搜索（MCTS）.md)
+没看懂？更详细解释见 [如何理解蒙特卡洛树搜索（MCTS）](概念分述/如何理解蒙特卡洛树搜索（MCTS）.md)
 
 ---
 ## 总结
