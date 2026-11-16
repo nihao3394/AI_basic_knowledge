@@ -185,4 +185,4 @@ $$UCB = \overline{X_j} + C \times \sqrt{\frac{\ln N}{n_j}}$$
 
 上一章：【[第十章：与或图搜索](第十章：与或图搜索.md)】
 
-下一章：【[第十二章：遗传算法 (Genetic Algorithm, GA)](第十二章：遗传算法%20(Genetic%20Algorithm,%20GA).md)】
+下一章：【[第十二章：遗传算法 (Genetic Algorithm, GA)](章节分述/第十二章：遗传算法%20(Genetic%20Algorithm,%20GA).md)】

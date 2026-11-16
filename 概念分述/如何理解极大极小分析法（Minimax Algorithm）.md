@@ -140,4 +140,4 @@ flowchart TD
 
 ---
 
-返回原文 [第十一章：博弈树搜索 (Game Tree Search)](第十一章：博弈树搜索%20(Game%20Tree%20Search).md)
+返回原文 [第十一章：博弈树搜索 (Game Tree Search)](../章节分述/第十一章：博弈树搜索%20(Game%20Tree%20Search).md)
